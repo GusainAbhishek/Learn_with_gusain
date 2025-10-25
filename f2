@@ -1,3 +1,4 @@
 hi i am performing the stash command for basic understanding 
 i just run git stash then after check the list of the stash
-
+then resume the stash with the help of the git stash apply 
+then delete the stash git stash pop / git stash drop
